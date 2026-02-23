@@ -1,12 +1,6 @@
 🌐 Personal Portfolio Website
 
 
-
-
-
-
-
-
 A modern and responsive Personal Portfolio Website built using React.js to showcase my skills, projects, and contact details.
 
 Designed with reusable components, smooth navigation, and a clean mobile-friendly UI to provide a great user experience.
@@ -36,3 +30,4 @@ JavaScript
 HTML5
 
 CSS3
+
